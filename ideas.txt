@@ -1,0 +1,13 @@
+[X] We could try to only destroy derelect houses
+
+[ ] ...then try to rebuild new buildings there
+
+[ ] we want it to be more about safety
+
+[ ] Maybe we could have a cleanup / demolition accidents we have to pay for if we don't.
+
+[ ] press to restart?
+
+[ ] login system - there's already an imported file for it but we'd still need to put it in use
+
+[ ] using progress bars - same thing as login system
