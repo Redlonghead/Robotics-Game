@@ -129,8 +129,8 @@ def mainLoop():
 def end():
   #once time has run out----------------
   if city >= 10:
-	  printWait("You ran out of time!\nGood try")
-	  lose()
+    printWait("You ran out of time!\nGood try")
+    lose()
   else:
 # It would just be better to use "Print" here that way it won't say "press enter" under it ; same for the "lose"
     printWait("Nice Job!")
